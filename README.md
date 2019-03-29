@@ -29,6 +29,10 @@ All the pieces are included in a [ZN-1X development board](http://www.znmcu.cn/)
 * The file system is from [znFat project](https://gitee.com/f4cker/znfat/tree/master).
 * Some code are from examples coming with the development board.
 
+## Compile
+
+* use [Keil](http://www.keil.com) to open `src/ebook reader.Uv2` project file.
+
 ## Books
 
 Fortunately there are many ebooks already available. Currently only TXT books are supported to make things simple.
